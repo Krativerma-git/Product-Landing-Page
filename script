@@ -1,0 +1,7 @@
+// You can add JavaScript functionality here if needed
+// For example, handling the "Add to Cart" button click event
+document.addEventListener('DOMContentLoaded', function() {
+    var addToCartButtons = document.querySelectorAll('.product button');
+  
+   
+  
